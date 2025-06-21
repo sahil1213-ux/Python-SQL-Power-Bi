@@ -1,15 +1,47 @@
-# Bike Share Data Analysis
+# 🚲 BikeShare Insights Dashboard
 
-This repository contains all resources and code files related to Bike Share Analysis.
+**Company:** MetroCycle Co. – a growing urban bike-share operator seeking to optimize usage and profitability.
+---
 
+## 1. **Problem Statement**
+MetroCycle Co. lacked clear visibility into ride demand timing, subscriber behavior, and seasonal usage patterns. This resulted in:
+- Inefficient bike distribution leading to empty or full stations during peak hours  
+- Missed revenue opportunities due to poorly timed pricing and promotions  
+- Inadequate marketing strategies failing to convert casual riders to subscribers
+
+---
+
+*Tools Used: Python, SQL, Power BI (DAX & Power Query)*
+
+# Dashboard
 ![Image](https://github.com/user-attachments/assets/6e87ee0a-4e88-456d-a6e5-fc69509833a1)
 ![Image](https://github.com/user-attachments/assets/405e0d06-2e0a-408b-abd9-a414eca4a461)
 
-## Key Outputs
+## 2. **Project Objective**
+- Ingest and clean trip data using **Python** and **SQL**  
+- Analyze ride frequency, revenue, and profit by time-of-day, season, and rider type  
+- Build an interactive **Power BI** dashboard to surface:
+  - Peak demand hours  
+  - Seasonal usage trends  
+  - Revenue contribution by registered vs. casual riders
 
-- **Analysis Insights**:
-  - **Hourly Revenue Analysis**: Peak revenue hours were observed between 8 AM–10 AM and 5 PM–7 PM, aligning with typical commuting times.
-  - **Profit and Revenue Trends**: Revenue and profit exhibited a seasonal pattern, peaking in summer and declining during winter.
-  - **Seasonal Trends**: Summer consistently generated the highest revenue, followed by spring and fall, with winter showing the lowest.
-  - **Rider Demographics**: Registered riders contributed significantly more to revenue and profit compared to casual riders, highlighting their importance to
-    business growth.
+---
+
+## 3. **Key Insights & Business Value**
+
+| Analysis Area         | Insight                                      | Business Impact                                                |
+|----------------------|----------------------------------------------|----------------------------------------------------------------|
+| **Hourly Revenue**    | Peak earnings between **8–10 AM** and **5–7 PM** | Optimize bike placement and dynamic pricing during rush hours |
+| **Seasonal Trends**   | Highest revenue in **Summer**, lowest in **Winter** | Plan promotions and maintenance around seasonal shifts         |
+| **Rider Segmentation**| **Registered riders** generate far more revenue and profit | Prioritize campaigns to convert casual users to subscribers     |
+
+---
+
+## 4. **Why It Matters**
+- 🚴 **Operational Efficiency**: Better bike rebalancing to meet real-world demand  
+- 💰 **Revenue Optimization**: Time-based strategies to maximize profit  
+- 🎯 **Targeted Growth**: Convert profitable casual riders, enhancing long-term sustainability  
+
+---
+
+
