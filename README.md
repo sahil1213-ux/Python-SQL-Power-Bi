@@ -11,6 +11,12 @@ MetroCycle Co. lacked clear visibility into ride demand timing, subscriber behav
 
 ---
 
+## 2. **Project Overview**
+- Faced inefficiencies in bike availability and underutilized revenue windows at MetroCycle Co. due to a lack of insight into rider behavior, peak usage hours, and seasonal demand patterns.
+- Performed data analysis using Python, SQL, and Power BI to examine 34,000+ rides, identify high-revenue hours, seasonal trends, and segment revenue by registered vs. casual riders.
+- Enabled strategic decision-making that optimized bike redistribution, supported summer-based marketing campaigns, and guided subscriber-focused growth.
+
+
 *Tools Used: Python, SQL, Power BI (DAX & Power Query)*
 
 # Dashboard
