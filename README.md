@@ -3,6 +3,9 @@
 **Company:** MetroCycle Co. – a growing urban bike-share operator seeking to optimize usage and profitability.
 ---
 
+## Dashboard: https://app.powerbi.com/links/J16vWXB19a?ctid=00436dcb-a0dc-4a68-a066-91c516efd0d4&pbi_source=linkShare
+
+
 ## 1. **Problem Statement**
 MetroCycle Co. lacked clear visibility into ride demand timing, subscriber behavior, and seasonal usage patterns. This resulted in:
 - Inefficient bike distribution leading to empty or full stations during peak hours  
